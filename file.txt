@@ -1,1 +1,227 @@
-
+Code	Description
+ACB	Catch Basin
+ACOH	Cleanout House
+ACOM	Cleanout Mainline
+ACOP	Cleanout Propertyline
+ACOS	Cleanout Saddle
+ADP	Discharge Point
+AEP	End of Pipe
+AJB	Junction Box
+AM	Meter
+AMH	Manhole
+AML	Mainline
+AOC	Special Chamber
+ATC	Tee Connection
+AW	Wye
+AWA	Wastewater Access Device
+AWD	Double Wye
+AWW	Wet Well
+B	Broken
+BSV	Broken Soil Visible
+BVV	Broken Void Visible
+CC	Crack Circumferential
+CH2	Crack Longitudinal Hinge, 2
+CH3	Crack Longitudinal Hinge, 3
+CH4	Crack Longitudinal Hinge, 4
+CL	Crack Longitudinal
+CM	Crack Multiple
+CS	Crack Spiral
+D	Deformed
+DAE	Deposits Attached Encrustation
+DAGS	Deposits Attached Grease
+DAR	Deposits Attached Ragging
+DAZ	Deposits Attached Other
+DI	Dropped Invert
+DNF	Deposits Ingressed Fine
+DNGV	Deposits Ingressed Gravel
+DNZ	Deposits Ingressed Other
+DSC	Deposits Settled Compacted
+DSF	Deposits Settled Fine
+DSGV	Deposits Settled Gravel
+DSZ	Deposits Settled Other
+FBEMD	Fitting Mitered Bend Down
+FBEML	Fitting Mitered Bend Left
+FBEMLD	Fitting Mitered Bend Left Down
+FBEMLU	Fitting Mitered Bend Left Up
+FBEMR	Fitting Mitered Bend Right
+FBEMRD	Fitting Mitered Bend Right Down
+FBEMRU	Fitting Mitered Bend Right Up
+FBEMU	Fitting Mitered Up
+FBESD	Fitting Sweep Bend Down
+FBESL	Fitting Sweep Bend Left
+FBESLD	Fitting Sweep Bend Left Down
+FBESLU	Fitting Sweep Bend Left Up
+FBESR	Fitting Sweep Bend Right
+FBESRD	Fitting Sweep Bend Right Down
+FBESRU	Fitting Sweep Bend Right Up
+FBESU	Fitting Sweep Bend Up
+FC	Fracture Circumferential
+FCA	Fitting Cap
+FCAF	Fitting Cap Fitting
+FCAS	Fitting Cap Seal
+FH2	Fracture Longitudinal Hinge, 2
+FH3	Fracture Longitudinal Hinge, 3
+FH4	Fracture Longitudinal Hinge, 4
+FL	Fracture Longitudinal
+FM	Fracture Multiple
+FRV	Fitting Vertical Riser
+FS	Fracture Spiral
+FTDS	Fitting Double Sweep Tee
+FTS	Fitting Sweep Tee
+GRT	Grout done at Location
+GTFJ	Grout Air Test Fail Joint
+GTFL	Grout Air Test Fail Lateral
+GTPJ	Grout Air Test Pass Joint
+GTPL	Grout Air Test Pass Lateral
+GTUJ	Grout Air Test Unable Joint
+GTUL	Grout Air Test Unable Lateral
+H	Hole
+HSV	Hole Soil Visible
+HVV	Hole Void Visible
+ID	Infil Dripper
+IG	Infil Gusher
+IR	Infil Runner
+IS	Infil Stain
+ISGT	Intruding Sealing Grout
+ISSR	Intruding Sealing Ring
+ISSRB	Intruding Sealing Ring Broken
+ISSRH	Intruding Sealing Ring Hanging
+ISSRL	Intruding Sealing Ring Loose/Poorly Fitting
+ISZ	Intruding Sealing Other
+IW	Infil Weeper
+JAL	Joint Angular Large
+JAM	Joint Angular Medium
+JOL	Joint Offset Large
+JOM	Joint Offset Medium
+JSL	Joint Separated Large
+JSM	Joint Separated Medium
+KD	Buckling Dimpling
+KI	Inverse Curvature
+KW	Buckling Wall
+LD	Alignment Down
+LFAC	Lining Failure Abandoned Connection
+LFAS	Lining Failure Annular Space
+LFB	Lining Failure Blistered
+LFBK	Lining Failure Buckled
+LFBU	Lining Failure Bulges
+LFCS	Lining Failure Connection Cut Shifted
+LFD	Lining Failure Detached
+LFDC	Lining Failure Discoloration
+LFDE	Lining Failure Defective End
+LFDL	Lining Failure Delaminating
+LFOC	Lining Failure Overcut Connection
+LFPH	Lining Failure Pinhole
+LFRS	Lining Failure Resin Slug
+LFUC	Lining Failure Undercut Connection
+LFW	Lining Failure Wrinkled
+LFZ	Lining Failure Other
+LL	Alignment Left
+LLD	Alignment Left Down
+LLU	Alignment Left Up
+LR	Alignment Right
+LRD	Alignment Right Down
+LRU	Alignment Right Up
+LU	Alignment Up
+MCU	Camera Underwater
+MGO	General Observation
+MGP	General Photo
+MJL	Joint Length Change
+MLC	Lining Change
+MMC	Material Change
+MSA	Abandoned Survey
+MSC	Shape or Size Change
+MWL	Water Level
+MWLS	Water Level Sag
+MWM	Water Mark
+MYN	Dye Test Not Visible
+MYV	Dye Test Visible
+OBB	Obstacle Brick
+OBC	Obstacle Thru Connection
+OBI	Obstacle Intruding Thru Wall
+OBJ	Obstacle In Joint
+OBM	Obstacle Pipe Material
+OBN	Obstacle Construction Debris
+OBP	Obstacle External Pipe or Cable
+OBR	Obstacle Rocks
+OBS	Obstacle Built Into Structure
+OBZ	Obstacle Other
+RBB	Roots Ball Barrel
+RBC	Roots Ball Connection
+RBJ	Roots Ball Joint
+RBL	Roots Ball Lateral
+RFB	Roots Fine Barrel
+RFC	Roots Fine Connection
+RFJ	Roots Fine Joint
+RFL	Roots Fine Lateral
+RMB	Roots Medium Barrel
+RMC	Roots Medium Connection
+RMJ	Roots Medium Joint
+RML	Roots Medium Lateral
+RPL	Repair Localized Liner
+RPLD	Repair Localized Liner Defective
+RPP	Repair Patch
+RPPD	Repair Patch Defective
+RPR	Repair Point Pipe Replaced
+RPRD	Repair Point Defective
+RPZ	Repair Other
+RPZD	Repair Other Defective
+RTB	Roots Tap Barrel
+RTC	Roots Tap Connection
+RTJ	Roots Tap Joint
+RTL	Roots Tap Lateral
+SAM	Surface Aggregate Missing
+SAMC	Surface Aggregate Missing Chemical
+SAMM	Surface Aggregate Missing Mechanical
+SAMZ	Surface Aggregate Missing Unknown
+SAP	Surface Aggregate Projecting
+SAPC	Surface Aggregate Projecting Chemical
+SAPM	Surface Aggregate Projecting Mechanical
+SAPZ	Surface Aggregate Projecting Unknown
+SAV	Surface Aggregate Visible
+SAVC	Surface Aggregate Visible Chemical
+SAVM	Surface Aggregate Visible Mechanical
+SAVZ	Surface Aggregate Visible Unknown
+SCP	Surface Corrosion Metal Pipe
+SMW	Surface Missing Wall
+SMWC	Surface Missing Wall Chemical
+SMWM	Surface Missing Wall Mechanical
+SMWZ	Surface Missing Wall Unknown
+SRC	Surface Reinforcement Corroded
+SRCC	Surface Reinforcement Corroded Chemical
+SRCM	Surface Reinforcement Corroded Mechanical
+SRCZ	Surface Reinforcement Corroded Unknown
+SRI	Surface Roughness Increased
+SRIC	Surface Roughness Increased Chemical
+SRIM	Surface Roughness Increased Mechanical
+SRIZ	Surface Roughness Increased Unknown
+SRP	Surface Reinforcement Projecting
+SRPC	Surface Reinforcement Projecting Chemical
+SRPM	Surface Reinforcement Projecting Mechanical
+SRPZ	Surface Reinforcement Projecting Unknown
+SRV	Surface Reinforcement Visible
+SRVC	Surface Reinforcement Visible Chemical
+SRVM	Surface Reinforcement Visible Mechanical
+SRVZ	Surface Reinforcement Visible Unknown
+SSS	Surface Spalling
+SSSC	Surface Spalling Chemical
+SSSM	Surface Spalling Mechanical
+SSSZ	Surface Spalling Other
+SZ	Surface Other
+SZC	Surface Other Chemical
+SZM	Surface Other Mechanical
+SZZ	Surface Other Unknown
+TB	Tap Break-in
+TBA	Tap Break-in Active
+TBB	Tap Break-in Abandoned
+TBC	Tap Break-in Capped
+TBD	Tap Break-in Defective
+TBI	Tap Break-in Intruding
+VC	Vermin Cockroach
+VR	Vermin Rat
+VZ	Vermin Other
+WFC	Weld Failure Circumferential
+WFL	Weld Failure Longitudinal
+WFM	Weld Failure Multiple
+WFS	Weld Failure Spiral
+WFZ	Weld Failure Other
+XP	Collapse Pipe Sewer
